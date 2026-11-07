@@ -55,7 +55,7 @@ Address decoding:
  
 ## How to use (Logisim Evolution)
  
-1. Open `ram_4x4.circ` in Logisim Evolution.
+1. Open `SRAM_Architecture_Using_D_FlipFlop.circ` in Logisim Evolution.
 2. Enable the clock: **Simulate → Tick Enabled** (`Ctrl+K`). The clock is set to 1 Hz. Use **Tick Once** (`Ctrl+T`) to step it by hand.
 3. Use the **Poke tool** (hand) to toggle the inputs.
 ### Example: write `1010` to word 0, then read it back
