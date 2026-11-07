@@ -3,7 +3,7 @@
 Implemented a 4-word × 4-bit static RAM (16 bits total) built from D flip-flops, basic logic gates and tri-state output buffers. Designed and simulated in **Logisim Evolution**.
 
 ## Architecture
-![Circuit](circuit.png)
+<img width="1155" height="865" alt="image" src="https://github.com/user-attachments/assets/0f765468-2d72-41c3-96ea-afb73fc05e6f" />
 
 ## Components
 | Block | Parts | Function |
